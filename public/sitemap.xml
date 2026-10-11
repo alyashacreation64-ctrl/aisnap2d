@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- Homepage -->
+  <!-- Main Homepage -->
   <url>
     <loc>https://aisnap2d.vercel.app/</loc>
     <lastmod>2026-10-11</lastmod>
@@ -8,7 +8,7 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- AI Screenshot Analyzer Page -->
+  <!-- AI Screenshot Analyzer Tool Page -->
   <url>
     <loc>https://aisnap2d.vercel.app/ai-screenshot-analyzer</loc>
     <lastmod>2026-10-11</lastmod>
@@ -16,7 +16,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Screenshot to Task Page -->
+  <!-- Screenshot to Task Tool Page -->
   <url>
     <loc>https://aisnap2d.vercel.app/screenshot-to-task</loc>
     <lastmod>2026-10-11</lastmod>
@@ -24,7 +24,7 @@
     <priority>0.9</priority>
   </url>
 
-  <!-- Screenshot to To-Do Page -->
+  <!-- Screenshot to To-Do List Tool Page -->
   <url>
     <loc>https://aisnap2d.vercel.app/screenshot-to-todo</loc>
     <lastmod>2026-10-11</lastmod>
